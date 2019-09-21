@@ -44,10 +44,6 @@ work        =   True
 flagMode    =   ''
 cmd_mode    =   False
 m_list      =   read_ab()
-#jhjhk hjhjkhkjhk
-
-
-
 
 
 if __name__ == "__main__":
