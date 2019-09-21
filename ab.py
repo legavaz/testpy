@@ -39,6 +39,7 @@ def print_list(m_list):
         
 
 #ОСНОВНОЙ БЛОК ПРОГРАММЫ
+#jjkkklklk
 fileName    =   'ab2.znc'
 work        =   True
 flagMode    =   ''
